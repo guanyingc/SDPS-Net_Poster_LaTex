@@ -1,6 +1,6 @@
 # LaTex Poster for SDPS-Net (CVPR 2019)
 
-## Poster Examples
+## Poster Example
 <p align="center">
     <img src='images/example.png' width="800" >
 </p>
